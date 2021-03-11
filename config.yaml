@@ -1,4 +1,4 @@
-baseURL: http://simeonzongo.netlify.app
+baseURL: http://simeonzongo.netlify.app/
 languageCode: en-us
 summaryLength: '10'
 theme: kross-hugo
