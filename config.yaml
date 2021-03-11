@@ -2,19 +2,19 @@ baseURL: https://simeonzongo.netlify.app/
 languageCode: en-us
 summaryLength: '10'
 theme: kross-hugo
-title: Kross
+title: Simeon ZONGO
 params:
-  address: 125/A, CA Commercial Area, California, USA
-  author: Johnathan Smith
-  contact:
+  address: Koudougou, Zakin, Sector n*2
+  author: Simeon ZONGO
+  contact: (+226) 67 60 24 70/ 73 05 37 78/ 77 47 65 64
     enable: yes
     form_action: '#'
   cookies:
     enable: yes
     expire_days: 2
-  copyright: Copyright &copy; 2020 a theme by [gethugothemes](https://gethugothemes.com)
-  description: This is meta description
-  email: steve.fruits@email.com
+  copyright: Copyright &simeonzongo; 2020 a theme by [gethugothemes](https://gethugothemes.com)
+  description: This is my website
+  email: zongowsimeon@gmail.com
   google_analytics_id: ''
   home: Home
   logo: ''
@@ -24,7 +24,7 @@ params:
     map_latitude: '51.5223477'
     map_longitude: '-0.1622023'
     map_marker: images/marker.png
-  phone: +880 2544 658 256
+  phone: +226 67 60 24 70
   plugins:
     css:
       - link: plugins/bootstrap/bootstrap.min.css
