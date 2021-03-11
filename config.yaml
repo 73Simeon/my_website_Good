@@ -1,7 +1,7 @@
-baseURL: http://simeonzongo.netlify.app/
+baseURL: http://examplesite.com
 languageCode: en-us
 summaryLength: '10'
-theme: Simoeo ZONGO
+theme: kross-hugo
 title: Kross
 params:
   address: 125/A, CA Commercial Area, California, USA
